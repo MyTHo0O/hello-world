@@ -1,5 +1,8 @@
 # hello-world
 
 Hello everyone,
-I'm Steven, i come from China, i am a developer.
+I'm Bryan, i come from China.
 Let's go.
+哈喽，大家好
+大家可以叫我Bryan，我来自中国。
+我们出发
